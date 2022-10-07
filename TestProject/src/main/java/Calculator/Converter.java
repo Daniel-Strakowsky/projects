@@ -14,7 +14,9 @@ public class Converter {
         keyMap.put ('C', 100);
 
         romanMap.put(100, "C");
+        romanMap.put(90, "XC");
         romanMap.put(50, "L");
+        romanMap.put(40, "XL");
         romanMap.put(10, "X");
         romanMap.put(9, "IX");
         romanMap.put(5, "V");
